@@ -1,0 +1,14 @@
+.input {
+	display: inline-block;
+}
+input {
+	padding: 20px;
+	margin: 15px;
+}
+
+.boxes{
+	border: 1px solid black;
+	width: 40vw;
+	height: 30vh;
+	display: inline-block;
+}
